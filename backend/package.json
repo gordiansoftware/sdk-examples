@@ -1,0 +1,20 @@
+{
+  "name": "gordian-example-backend",
+  "version": "1.0.0",
+  "description": "An example backend for Gordian V2 SDK integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "js-base64": "^3.7.5",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.11",
+    "serverless-http": "^3.2.0"
+  }
+}
