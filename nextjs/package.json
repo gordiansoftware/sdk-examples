@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "overrides": {
+    "postcss": "$postcss"
+  },
   "dependencies": {
     "@types/node": "20.3.1",
     "@types/react": "18.2.13",
